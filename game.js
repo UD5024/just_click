@@ -34,7 +34,7 @@ function cliclBotton() {
         if (enemy_HP <= 0) {
             enemy_LV += 1;
             enemy_HP = 2**enemy_LV;
-            if ((enemy_LV == 5)||(enemy_LV == 7)||(enemy_LV == 9)||(enemy_LV == 10)) {
+            if ((enemy_LV == 5)||(enemy_LV == 7)||(enemy_LV == 8)||(enemy_LV == 9)) {
                 size +=1;
                 DrawButton();
             }
