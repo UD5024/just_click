@@ -1,0 +1,15 @@
+p {
+    font-family:"Times New Roman";
+    text-align:center;
+    border: 0;
+    padding: 0;
+}
+body {background-color:rgb(47, 255, 165);}
+#hp {margin: auto; width:90vw; height:10vh; padding:0; text-align: center;}
+#ButtonBox {margin: auto; width:60vh; height:60vh; padding:0; text-align: center; line-height:60vh;}
+#detail {margin: auto; padding:0; text-align: center; font-size:2vh}
+#size1 {height:60%; width:60%; font-size:8vh; background-color: rgb(235, 226, 213);}
+#size2 {height:65%; width:65%; font-size:9vh; background-color: rgb(255, 210, 143);}
+#size3 {height:70%; width:70%; font-size:10vh; background-color: rgb(255, 182, 143);}
+#size4 {height:75%; width:75%; font-size:11vh; background-color: rgb(250, 149, 41);}
+#size5 {height:80%; width:80%; font-size:12vh; background-color: rgb(255, 0, 0);}
